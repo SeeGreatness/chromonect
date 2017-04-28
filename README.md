@@ -1,1 +1,1 @@
-# chromonect
+# TI Chromnect
